@@ -1,0 +1,18 @@
+# Note: The format of this file may change in the future. -- PJF, Nov 2012
+
+lists:
+    - name : Global Coffee and Wifi
+      id   : 50933738e4b07ae1b6203788
+      from :
+        - 4e4a11f02271ac3f6bd05d70              # Jesse's coffee and wifi
+        - 509336dbe4b000bd1f1fdaf8              # PJF's 24 hr coffee/wifi
+        - 4ffb537fe4b068da70364034              # PJF's Seattle wifi/coffee
+        - 500d92d4e4b051062221ab9e              # PJF's PDX wifi/coffee
+        - 50120513e4b01bcdb13f014f              # PJF's PDX late-night wifi
+
+    - name : Global vegetarian
+      id   : 509c59d7e4b0fe0aa4167bec
+      from :
+        - 4fef90bae4b0caa9ac84f8f5              # PJF's vegie PDX
+        - 5074d3f5498e939b2e1bee3d              # Claudine's veg Melbourne
+        - 50497bd6e4b070328fa7b2ad              # Amy's Veg*n Chicago
